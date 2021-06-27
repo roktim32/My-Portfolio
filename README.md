@@ -1,6 +1,6 @@
 # my_profile
 
-A new Flutter project.
+My portfolio app.
 
 ## Getting Started
 
